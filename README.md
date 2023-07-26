@@ -4,7 +4,7 @@ Oi👋 Meu nome é Marcos
 Programador C# Junior
 ---------------------
 
-* ✉️  Você pode falar comingo mandando um e-mail para [marcosjoseoliveira.mj@gmail.com](mailto:marcosjoseoliveira.mj@gmail.com)
+* ✉️  Você pode falar comigo mandando um e-mail para [marcosjoseoliveira.mj@gmail.com](mailto:marcosjoseoliveira.mj@gmail.com)
 * 🧠  Eu estou aprendendo Azure
 
 ### Habilidades
