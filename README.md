@@ -7,7 +7,7 @@ Programador C# Junior
 * ✉️  Você pode falar comingo mandando um e-mail para [marcosjoseoliveira.mj@gmail.com](mailto:marcosjoseoliveira.mj@gmail.com)
 * 🧠  Eu estou aprendendo Azure
 
-### Skills
+### Habilidades
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -20,6 +20,6 @@ Programador C# Junior
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 </p>
 
-### Socials
+### Social
 
 <p align="left"> <a href="https://www.github.com/MarcosSilva-git" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/marcos-silva-765505235/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
