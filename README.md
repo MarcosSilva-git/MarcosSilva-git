@@ -7,7 +7,7 @@ Programador .Net Pleno
 Codando em C# desde 2021...
 
 * ✉️  Você pode falar comigo mandando um e-mail para [marcosjoseoliveira.mj@gmail.com](mailto:marcosjoseoliveira.mj@gmail.com)
-* 🧠  Eu estou aprendendo Azure
+* 🧠  Eu estou aprendendo Vue.Js e Vuetify
 
 ### Habilidades
 
